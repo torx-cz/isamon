@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{RFC793}
+{\it TRANSMISSION CONTROL PROTOCOL}. 1981, [Online; navštíveno 19.11.2017].
+\newline\urlprefix\url{https://tools.ietf.org/html/rfc793}
+
+\bibitem{RFC1122}
+Braden, R.: {\it Requirements for Internet Hosts -- Communication Layers}.
+  Říjen 1989, [Online; navštíveno 19.11.2017].
+\newline\urlprefix\url{https://tools.ietf.org/html/rfc1122#page-42}
+
+\bibitem{RFC826}
+Plummer, D.~C.: {\it An Ethernet Address Resolution Protocol}. Listopad 1982,
+  [Online; navštíveno 19.11.2017].
+\newline\urlprefix\url{https://tools.ietf.org/html/rfc826}
+
+\bibitem{RFC768}
+Postel, J.: {\it User Datagram Protocol}. Srpen 1980, [Online; navštíveno
+  19.11.2017].
+\newline\urlprefix\url{https://tools.ietf.org/html/rfc768}
+
+\bibitem{RFC792}
+Postel, J.: {\it INTERNET CONTROL MESSAGE PROTOCOL}. 1981, [Online;
+  navštíveno 19.11.2017].
+\newline\urlprefix\url{https://tools.ietf.org/html/rfc792}
+
+\end{thebibliography}

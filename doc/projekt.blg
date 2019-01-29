@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: projekt.aux
+The style file: bib-styles/czechiso.bst
+Database file #1: projekt-20-literatura-bibliography.bib
+Warning--string name "sept" is undefined
+--line 24 of file projekt-20-literatura-bibliography.bib
+Warning--string name "sept" is undefined
+--line 41 of file projekt-20-literatura-bibliography.bib
+Warning--I didn't find a database entry for "Pravidla"
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Warning--to sort, need author or key in RFC793
+You've used 5 entries,
+            3151 wiz_defined-function locations,
+            679 strings with 5911 characters,
+and the built_in function-call counts, 1491 in all, are:
+= -- 102
+> -- 29
+< -- 0
++ -- 13
+- -- 8
+* -- 68
+:= -- 171
+add.period$ -- 10
+call.type$ -- 5
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 148
+empty$ -- 166
+format.name$ -- 8
+if$ -- 320
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 34
+newline$ -- 30
+num.names$ -- 8
+pop$ -- 90
+preamble$ -- 1
+purify$ -- 14
+quote$ -- 0
+skip$ -- 44
+stack$ -- 0
+substring$ -- 35
+swap$ -- 69
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 1
+while$ -- 8
+width$ -- 6
+write$ -- 53
+(There were 4 warnings)
