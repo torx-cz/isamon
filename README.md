@@ -5,8 +5,8 @@
 Vladimir Jerabek [xjerab21@stud.fit.vutbr.cz]
 
 ### What is it?
-    Isamon is a network monitoring application, which can scan internet network and find active devices.
-    It can also scan the devices open TCP ports as well as UDP ports.
+Isamon is a network monitoring application, which can scan internet network and find active devices.
+It can also scan the devices open TCP ports as well as UDP ports.
 
 
 ### Usage:
